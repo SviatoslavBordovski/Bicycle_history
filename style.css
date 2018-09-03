@@ -1,0 +1,56 @@
+#content {
+	text-align: center;
+	font-family: serif;
+	color: #333;
+  background-color: #eee;
+	max-width: 100%;
+	height: auto;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.jumbotron {
+width: auto;
+border-radius: 10px;
+background-color: #ffffff;
+color: black;
+font-family: monospace;
+align-content: center;
+margin: 20px;
+padding: 20px;
+}
+
+#picture {
+	display: inline-block;
+  border-radius: 25px;
+	height: auto;
+	max-width: 100%;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+ul {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 18px;
+  font-height: 8px;
+  text-align: left;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+li{
+  margin: 15px;
+}
+
+#footer {
+text-align: center;
+font-family: monospace;
+font-size: 150%;
+padding-bottom: 20px;
+}
+
+.lead {
+	padding-bottom: 10px;
+  font-size: 20px;
+  font-family: Opean Sans;
+}
