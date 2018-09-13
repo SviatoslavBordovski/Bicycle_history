@@ -20,14 +20,14 @@
 		padding: 20px;
 		}
 
-#picture {
-	display: inline-block;
-  	border-radius: 25px;
-	height: auto;
-	max-width: 100%;
-	margin-bottom: 10px;
-	text-align: center;
-}
+#picture 	{
+		display: inline-block;
+  		border-radius: 25px;
+		height: auto;
+		max-width: 100%;
+		margin-bottom: 10px;
+		text-align: center;
+		}
 
 ul {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
