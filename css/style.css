@@ -29,14 +29,14 @@
 		text-align: center;
 		}
 
-ul {
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
-  font-size: 18px;
-  line-height: 20px;
-  text-align: left;
-  max-width: 700px;
-  margin: 0 auto;
-}
+ul 		{
+  		font-family: "Trebuchet MS", Helvetica, sans-serif;
+  		font-size: 18px;
+  		line-height: 20px;
+  		text-align: left;
+  		max-width: 700px;
+  		margin: 0 auto;
+		}
 
 li{
   margin: 15px;
