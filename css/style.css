@@ -7,7 +7,7 @@
 	height: auto;
   	padding: 5px;
   	border-radius: 5px;
-}
+	}
 
 .jumbotron {
 width: auto;
@@ -18,7 +18,7 @@ font-family: monospace;
 text-align: center;
 margin: 20px;
 padding: 20px;
-}
+	}
 
 #picture {
 	display: inline-block;
