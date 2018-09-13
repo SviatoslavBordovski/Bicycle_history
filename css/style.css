@@ -42,12 +42,12 @@ li		{
   		margin: 15px;
 		}
 
-#footer {
-text-align: center;
-font-family: monospace;
-font-size: 150%;
-padding-bottom: 20px;
-}
+#footer 	{
+		text-align: center;
+		font-family: monospace;
+		font-size: 150%;
+		padding-bottom: 20px;
+		}
 
 .lead {
 	padding-bottom: 10px;
